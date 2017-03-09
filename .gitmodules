@@ -1,0 +1,3 @@
+[submodule "edgetrace"]
+	path = edgetrace
+	url = ssh://git@github.com/uoaerg/edgetrace.git
